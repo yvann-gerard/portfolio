@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Game development portfolio",
+  "author": "Yvann-Gerard",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@nuxtjs/vuetify": "0.5.5",
+    "flag-icon-css": "^3.4.5",
+    "nuxt": "^2.11.0",
+    "vue-flag-icon": "^1.0.6",
+    "vue-i18n": "^8.15.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "nodemon": "^1.19.4",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2"
+  }
+}

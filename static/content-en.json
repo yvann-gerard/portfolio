@@ -1,0 +1,16 @@
+{
+    "info": "About me",
+    "aboutDescription": "Hello, I’m Yvann GERARD, a game programmer from France who recently graduated with a Master’s degree in software development. \n\nDuring my scholarship I learnt to produce clean and structured code. I want to use this knowledge to help the development of videogames.\n\nI have usually worked on teams and this allowed me to understand the importance of reusable code and I can freely give my very best if someone or something depends on me.\n\nI would like to evolve within an independent game studio which emphasize teamwork and really love game development.",
+    "projects": "Projects",
+    "games": "Games",
+    "aboutGames": "I created a few game prototypes in order to improve my skills regarding game development. Those prototypes made with Unity are not fully-fledged games but rather code snippets.",
+    "aboutElement": "I wanted to create an easy way to create multiple enemies with different abilities and interactions with the player.",
+    "aboutTower": "I wanted to use rotation as the main component of a game and I worked on a way to simplify enemies’ movements.",
+    "aboutPopulation": "For this prototype I wanted to work on UI interactions, so I decided to create a game in which you choose a population’s stats in order to have the more individuals than your opponents.",
+    "aboutPathfinding": "I worked on a pathfinding algorithm for a test on Kattis website for Paradox Interactive. After my result got validated, I improved it in order to reduce the execution time and get it below the lowest discussed by other candidates.",
+    "aboutProjection": "For a project I needed to have an understanding of the influence of two suns orbiting a planet in a fantasy world. I created a small code to give a visual representation of this configuration.",
+    "aboutRaspberry": "I am using a Raspebbry Pi 4 as a multimedia server and as remote access to data. This also allowed me to tinker with multiple Linus systems and get use to do some internal work to facilitate collaborative work in a company.",
+    "challengesPreLink": "I like to take challenges in order to learn new features of languages and improve in them. So i used ",
+    "challengesPostLink": ", to complete some katas (coding challenges) in a few languages",
+    "tooltipProject" : "Click to see details about this project"
+}
