@@ -21,12 +21,12 @@
       <v-toolbar-title v-text="title"/>
       <v-spacer/>
       <a :href="this.$route.fullPath.substring(0,this.$route.fullPath.indexOf('?')) + '?lng=en'">
-        <div v-bind:class="{ 'active-flag': language == 'en', 'flag': language != 'en'}">
+        <div v-bind:class="{ 'active-flag': this.$route.query.lng != 'fr', 'flag': language == 'fr'}">
           <v-img :src="flags.british" />
         </div>
       </a>
       <a :href="this.$route.fullPath.substring(0,this.$route.fullPath.indexOf('?')) + '?lng=fr'">
-        <div v-bind:class="{ 'active-flag': language == 'fr', 'flag': language != 'fr'}">
+        <div v-bind:class="{ 'active-flag': this.$route.query.lng == 'fr', 'flag': language != 'fr'}">
           <v-img :src="flags.french"/>
         </div>
       </a>
@@ -49,6 +49,7 @@ export default {
     }
   },
   mounted() {
+    console.log(this.$route.query.lng != 'fr');
     this.language = this.$route.query.lng;
     this.$i18n.locale = this.$route.query.lng;
     if (this.$route.name && this.$route.name != "index")

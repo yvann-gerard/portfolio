@@ -78,7 +78,7 @@
         <v-card-text>
           <p>{{$t("challengesPreLink")}} <a href="https://www.codewars.com/users/yvann-gerard">CodeWars</a>{{$t("challengesPostLink")}}</p>
             <v-img v-if="this.$route.query.lng=='fr'" :src="images.challengesFr" height="300" contain style="margin-left: -50%"></v-img>
-            <v-img v-if="this.$route.query.lng=='en'" :src="images.challengesEn" height="300" contain style="margin-left: -50%"></v-img>
+            <v-img v-if="this.$route.query.lng!='fr'" :src="images.challengesEn" height="300" contain style="margin-left: -50%"></v-img>
         </v-card-text>
       </v-flex>
     </v-layout>
@@ -97,6 +97,7 @@ export default {
   },
   data() {
     return {
+      on: false,
       images: {
         first: require('../assets/images/1.png'),
         second: require('../assets/images/2.png'),
