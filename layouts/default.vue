@@ -86,7 +86,7 @@ export default {
         {
           icon: "school",
           title: "Curriculum Vitae",
-          to: "/cv"
+          to: "/assets/CV_"+ + this.$i18n.locale + ".pdf"
         }
       ],
       flags: {
