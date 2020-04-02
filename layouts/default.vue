@@ -76,17 +76,17 @@ export default {
         {
           icon: "person",
           title: "Profile",
-          to: "/?lng=" + this.$i18n.locale
+          to: "/portfolio?lng=" + this.$i18n.locale
         },
         {
           icon: "videogame_asset",
           title: "Projects",
-          to: "/projects?lng=" + this.$i18n.locale
+          to: "/portfolio/projects?lng=" + this.$i18n.locale
         },
         {
           icon: "school",
           title: "Curriculum Vitae",
-          to: "/assets/CV_"+ + this.$i18n.locale + ".pdf"
+          to: "/cv/CV_"+ + this.$i18n.locale + ".pdf"
         }
       ],
       flags: {
