@@ -12,5 +12,6 @@
     "aboutRaspberry": "I am using a Raspebbry Pi 4 as a multimedia server and as remote access to data. This also allowed me to tinker with multiple Linus systems and get use to do some internal work to facilitate collaborative work in a company.",
     "challengesPreLink": "I like to take challenges in order to learn new features of languages and improve in them. So i used ",
     "challengesPostLink": ", to complete some katas (coding challenges) in a few languages",
-    "tooltipProject" : "Click to see details about this project"
+    "tooltipProject" : "Click to see details about this project",
+    "kataStats": "56 Completed Katas\nTop 9.973%"
 }

@@ -12,5 +12,6 @@
     "aboutRaspberry": "J’ai utilisé une Raspberry Pi 4 pour avoir un serveur multimédia et un accès distant à mes données. Cela m’a aussi permis d’en apprendre plus sur le system linux et sa possible utilisation au sein d’une entreprise.",
     "challengesPreLink": "J'aime me confronter à des challenges pour découvrir de nouvelles fonctionnalités des languages ainsi que m'améliorer dans ceux-ci. Via le site",
     "challengesPostLink": ", j'ai effectué des katas (exercices de programmation) dans plusieurs langages qui m'intéressent",
-    "tooltipProject" : "Cliquez pour accéder aux détails du projet"
+    "tooltipProject" : "Cliquez pour accéder aux détails du projet",
+    "kataStats": "56 Katas complétés\nTop 9.973%"
 }
