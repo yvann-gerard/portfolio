@@ -8,10 +8,10 @@
     "aboutTower": "Pour ce concept je souhaitais utiliser un axe de rotation ainsi que trouver un moyen de simplifier la création de déplacements ennemis.",
     "aboutPopulation": "Pour ce concept, je me suis davantage intéressé à l’UI. Je suis donc parti sur un jeu de création de population dépendante de statistiques de départ.",
     "aboutPathfinding": "J’ai créé un algorithme de pathfinding pour un test de Paradox interactive sur Kattis. Après avoir réalisé ce test, j’ai amélioré mon code pour réduire son temps d’exécution en dessous des résultats publiés par les autres candidats.",
-    "aboutProjection": "Dans le but d’avoir une représentation de l’influence de deux soleils orbitant autour d’une planète dans un monde fantaisie, j’ai créé une application permettant la visualisation de celle-ci.",
-    "aboutRaspberry": "J’ai utilisé une Raspberry Pi 4 pour avoir un serveur multimédia et un accès distant à mes données. Cela m’a aussi permis d’en apprendre plus sur le system linux et sa possible utilisation au sein d’une entreprise.",
+    "aboutProjection": "Dans le but d’avoir une représentation de l’influence de deux soleils orbitant autour d’une planète dans un monde fantasy, j’ai créé une application permettant la visualisation de celle-ci.",
+    "aboutRaspberry": "J’ai utilisé une Raspberry Pi 4 pour avoir un serveur multimédia et un accès distant à mes données. Cela m’a aussi permis d’en apprendre plus sur le système linux et sa possible utilisation au sein d’une entreprise.",
     "challengesPreLink": "J'aime me confronter à des challenges pour découvrir de nouvelles fonctionnalités des langages ainsi que m'améliorer dans ceux-ci. Via le site",
-    "challengesPostLink": ", j'ai effectué des katas (exercices de programmation) dans plusieurs langages qui m'intéressent",
+    "challengesPostLink": ", j'ai effectué des katas (exercices de programmation) dans plusieurs langages qui m'intéressent.",
     "tooltipProject" : "Cliquez pour accéder aux détails du projet",
     "kataStats": "56 Katas complétés\nTop 9.973%"
 }
